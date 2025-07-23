@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfb7495982021b1408cce735e4c43356
+timeCreated: 1494795069
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90593
+  packageName: 2D Forest Hand Painted Modular Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Forest Hand Painted Asset/Particles/Materials/Fog_mat.mat
+  uploadId: 184154

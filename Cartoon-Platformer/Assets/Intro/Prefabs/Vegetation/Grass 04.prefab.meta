@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c4090273d412c2498775ec82e4f3348
+timeCreated: 1494840722
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90593
+  packageName: 2D Forest Hand Painted Modular Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Forest Hand Painted Asset/Prefabs/Vegetation/Grass 04.prefab
+  uploadId: 184154

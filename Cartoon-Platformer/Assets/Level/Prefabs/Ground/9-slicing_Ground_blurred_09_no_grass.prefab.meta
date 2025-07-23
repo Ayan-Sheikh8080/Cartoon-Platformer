@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7bcbb4c1866cf6340b527bc04ba0fa6a
+timeCreated: 1518363310
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Ground/9-slicing_Ground_blurred_09_no_grass.prefab
+  uploadId: 229450

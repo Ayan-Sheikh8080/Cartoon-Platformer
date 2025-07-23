@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7b348a9bdbe09b4da21ba07c8262d08
+timeCreated: 1508077646
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Clouds/Cloud 04.prefab
+  uploadId: 229450

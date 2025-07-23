@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 95616c020c5604dda96cf76afbbc0272
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Demo/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader
+  uploadId: 98319

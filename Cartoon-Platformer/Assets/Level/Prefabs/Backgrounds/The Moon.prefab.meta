@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: de86b1df287275842b6c2380a2d98f13
+timeCreated: 1509706816
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Backgrounds/The
+    Moon.prefab
+  uploadId: 229450

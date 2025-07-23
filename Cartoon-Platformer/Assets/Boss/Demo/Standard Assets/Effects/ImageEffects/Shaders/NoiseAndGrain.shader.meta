@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b0249d8c935344451aa4de6db76f0688
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Demo/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader
+  uploadId: 98319

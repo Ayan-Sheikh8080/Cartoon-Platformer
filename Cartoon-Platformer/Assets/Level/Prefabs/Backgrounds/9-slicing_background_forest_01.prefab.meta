@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9adeba913a1918748aa56985ea7079ba
+timeCreated: 1509712269
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Backgrounds/9-slicing_background_forest_01.prefab
+  uploadId: 229450

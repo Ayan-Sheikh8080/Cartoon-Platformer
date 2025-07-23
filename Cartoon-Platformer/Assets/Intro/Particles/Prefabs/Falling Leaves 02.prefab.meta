@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c1d35d1823fdd44cb8d35b966353a8a
+timeCreated: 1494840596
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90593
+  packageName: 2D Forest Hand Painted Modular Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Forest Hand Painted Asset/Particles/Prefabs/Falling Leaves
+    02.prefab
+  uploadId: 184154

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 62bcade1028c24ca1a39760ed84b9487
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Demo/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader
+  uploadId: 98319

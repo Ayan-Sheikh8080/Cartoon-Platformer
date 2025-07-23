@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abd63abcc46fbcb4588164b671b52d3b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Demo/Editor/ImageEffects/NoiseAndGrainEditor.cs
+  uploadId: 98319

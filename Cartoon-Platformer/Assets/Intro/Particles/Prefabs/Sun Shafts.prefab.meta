@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 65f32814777caef4a9660c5f35a0d50b
+timeCreated: 1494840600
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90593
+  packageName: 2D Forest Hand Painted Modular Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Forest Hand Painted Asset/Particles/Prefabs/Sun Shafts.prefab
+  uploadId: 184154

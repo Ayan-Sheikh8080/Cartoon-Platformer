@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ee9f31e160a3344b86656607efddbeb
+timeCreated: 1503942200
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Demo Scenes/Animations/Camera.controller
+  uploadId: 229450

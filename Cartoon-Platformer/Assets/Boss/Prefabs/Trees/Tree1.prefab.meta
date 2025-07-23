@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60d3370a59977401586f50afffb807ab
+timeCreated: 1450909241
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Prefabs/Trees/Tree1.prefab
+  uploadId: 98319

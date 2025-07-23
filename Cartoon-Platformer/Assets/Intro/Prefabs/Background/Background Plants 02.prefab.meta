@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8f40cb803597b940be90a57c1e17884
+timeCreated: 1494840278
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90593
+  packageName: 2D Forest Hand Painted Modular Pack
+  packageVersion: 1.0
+  assetPath: Assets/2D Forest Hand Painted Asset/Prefabs/Background/Background Plants
+    02.prefab
+  uploadId: 184154

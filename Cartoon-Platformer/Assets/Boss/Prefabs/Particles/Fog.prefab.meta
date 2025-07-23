@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c2bbcf65799b4341bf122d70b5bcf45
+timeCreated: 1450024794
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Prefabs/Particles/Fog.prefab
+  uploadId: 98319

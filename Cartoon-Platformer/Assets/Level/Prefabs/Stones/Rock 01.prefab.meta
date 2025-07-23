@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3b72f2e0d279fa48832363bc9fa6e5e
+timeCreated: 1506259942
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Stones/Rock 01.prefab
+  uploadId: 229450

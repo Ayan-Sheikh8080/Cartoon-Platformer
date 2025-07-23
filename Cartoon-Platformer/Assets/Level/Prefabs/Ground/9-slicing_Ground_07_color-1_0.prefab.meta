@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c36a1b9e1f349e747a7fc6b1ff04b352
+timeCreated: 1503581972
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Ground/9-slicing_Ground_07_color-1_0.prefab
+  uploadId: 229450

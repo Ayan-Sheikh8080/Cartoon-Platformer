@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42898d32c17051641a16a1c4820afd25
+timeCreated: 1434549954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Materials/fog.mat
+  uploadId: 98319

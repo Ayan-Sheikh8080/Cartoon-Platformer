@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 81f0653c07c9e944ba796f23eee83925
+timeCreated: 1505748582
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Trees/Stump 01.prefab
+  uploadId: 229450

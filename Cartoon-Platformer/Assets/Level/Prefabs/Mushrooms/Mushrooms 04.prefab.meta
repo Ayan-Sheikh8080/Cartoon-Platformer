@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c9d3d34d81fe7054f9bfd5d3c2dd9cdf
+timeCreated: 1505742972
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Mushrooms/Mushrooms
+    04.prefab
+  uploadId: 229450

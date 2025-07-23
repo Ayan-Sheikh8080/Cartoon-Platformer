@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 459fe69d2f6d74ddb92f04dbf45a866b
+ShaderImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 52150
+  packageName: Mysterious Wood 2D Set
+  packageVersion: 1.0
+  assetPath: Assets/WOODS/Demo/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+  uploadId: 98319

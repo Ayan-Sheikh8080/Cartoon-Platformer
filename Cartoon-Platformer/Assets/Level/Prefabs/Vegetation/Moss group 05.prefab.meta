@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 76ecc90b1aa85ca4997ab55eecc8a082
+timeCreated: 1509715342
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Vegetation/Moss
+    group 05.prefab
+  uploadId: 229450

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8fafc2977f1bbe74d95abaafc6a2c7aa
+timeCreated: 1508075746
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104376
+  packageName: 2D Forest Pack with 9-slicing sprites
+  packageVersion: 1.1
+  assetPath: Assets/2D Forest Pack with 9-slicing sprites/Prefabs/Vegetation/Bush
+    12.prefab
+  uploadId: 229450
