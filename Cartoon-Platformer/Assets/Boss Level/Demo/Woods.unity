@@ -6433,8 +6433,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1211678271}
-  - {fileID: 1708253422}
-  - {fileID: 1282036496}
+  - {fileID: 1207451397}
+  - {fileID: 1439436757}
   - {fileID: 464000266}
   - {fileID: 187537244}
   m_Father: {fileID: 0}
@@ -8159,6 +8159,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1207451397 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4870349180196024, guid: 8d218001a1e147542bc5a9058259e49f, type: 3}
+  m_PrefabInstance: {fileID: 1708253421}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1211678270
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8606,11 +8611,6 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 414240, guid: 7c89dacbd0ddc4b8ba7b30b630e06108, type: 3}
   m_PrefabInstance: {fileID: 1893895105}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1282036496 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 497438, guid: 8d218001a1e147542bc5a9058259e49f, type: 3}
-  m_PrefabInstance: {fileID: 1525005206}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1290996413
 GameObject:
@@ -9666,6 +9666,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1439436757 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4870349180196024, guid: 8d218001a1e147542bc5a9058259e49f, type: 3}
+  m_PrefabInstance: {fileID: 1525005206}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1444255049
 GameObject:
   m_ObjectHideFlags: 0
@@ -12643,11 +12648,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d218001a1e147542bc5a9058259e49f, type: 3}
---- !u!4 &1708253422 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 497438, guid: 8d218001a1e147542bc5a9058259e49f, type: 3}
-  m_PrefabInstance: {fileID: 1708253421}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1737023656 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 414240, guid: 7c89dacbd0ddc4b8ba7b30b630e06108, type: 3}
